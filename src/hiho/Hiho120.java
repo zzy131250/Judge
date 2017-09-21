@@ -11,5 +11,6 @@ public class Hiho120 {
 		int N = Integer.parseInt(items[0]);
 		int K = Integer.parseInt(items[1]);
 	}
+
 	
 }
