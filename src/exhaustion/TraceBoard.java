@@ -1,7 +1,10 @@
-package tests;
+package exhaustion;
 
 import java.util.Scanner;
 
+/**
+ * 遍历方格
+ */
 public class TraceBoard {
 	
 	int count = 0;

@@ -1,7 +1,10 @@
-package tests;
+package exhaustion;
 
 import java.util.Scanner;
 
+/**
+ * 蛇形矩阵
+ */
 public class SnakeMatrix {
 	
 	static int[][] matrix;

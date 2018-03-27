@@ -1,4 +1,4 @@
-package tests;
+package backtrack;
 
 import java.util.Scanner;
 
