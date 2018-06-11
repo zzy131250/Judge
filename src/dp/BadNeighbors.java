@@ -1,5 +1,8 @@
 package dp;
 
+/**
+ * http://community.topcoder.com/tc?module=ProblemDetail&rd=5009&pm=2402
+ */
 public class BadNeighbors {
 	// 分解为[0, n-1]最大与[1, n]最大两个问题，可避免考虑首尾是否相连的特殊情况
 

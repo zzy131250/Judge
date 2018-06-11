@@ -1,5 +1,8 @@
 package dp;
 
+/**
+ * 最长递增子序列
+ */
 public class LongestIncreasingSubsequence {
 
 	public static void main(String[] args) {

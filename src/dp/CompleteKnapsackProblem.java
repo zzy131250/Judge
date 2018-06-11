@@ -1,5 +1,8 @@
 package dp;
 
+/**
+ * 完全背包问题
+ */
 public class CompleteKnapsackProblem {
 
 	public static void main(String[] args) {

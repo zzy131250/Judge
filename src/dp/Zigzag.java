@@ -1,5 +1,8 @@
 package dp;
 
+/**
+ * http://community.topcoder.com/tc?module=ProblemDetail&rd=4493&pm=1259
+ */
 public class Zigzag {
 
 	public static void main(String[] args) {
